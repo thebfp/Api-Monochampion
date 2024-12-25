@@ -2,7 +2,7 @@
 {
     public class Account
     {
-        public string Username { get; set; }
-        public string PlatformName { get; set; }
+        public string Nick { get; set; }
+        //public string PlatformName { get; set; } 
     }
 }
